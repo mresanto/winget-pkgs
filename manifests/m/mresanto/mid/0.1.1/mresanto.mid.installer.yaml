@@ -7,7 +7,7 @@ Installers:
   - Architecture: x64
     InstallerType: portable
     InstallerUrl: https://github.com/mresanto/mid/releases/download/v0.1.1/mid.exe
-    InstallerSha256: 7c00d971f4b7f721e56f369b8e4753868115cb8d7a70cf642705fad59bb88cbc
+    InstallerSha256: ec33aeac81516aab9e8558f207654a8b5124981eddbc109a538f2ac0750c264c
     Commands:
       - mid
 
