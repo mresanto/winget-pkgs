@@ -14,7 +14,8 @@ PackageUrl: https://github.com/mresanto/mid
 
 License: MIT
 LicenseUrl: https://github.com/mresanto/mid/blob/main/LICENSE
-Copyright: Copyright (c) g2026
+PrivacyUrl: https://github.com/mresanto/mid/blob/release/0.1.1/PRIVACY.md
+Copyright: Copyright (c) 2026 mresanto
 Tags:
   - database
   - cli
